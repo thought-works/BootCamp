@@ -3,10 +3,10 @@ class Zoltar
     puts 'Pulp Fiction'
   end
   
-  def self.who_directed_my_favourite_move
+  def self.who_has_no_life
     puts 'Osaide Duh!'
   end
 end
 
 Zoltar.what_is_my_favorite_movie
-Zoltar.who_directed_my_favourite_moveblah blah
+Zoltar.who_has_no_life

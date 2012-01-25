@@ -13,6 +13,11 @@ class Zoltar
   def self.i_have_no_life
     puts 'yup this is ryan p'
   end
+
+  def self.test_mark_function
+    puts 'test mark function'
+  end
+
 end
 
 Zoltar.what_is_my_favorite_movie

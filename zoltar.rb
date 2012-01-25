@@ -10,8 +10,12 @@ class Zoltar
     puts 'me agian'
   end
   
-  def self.i_have_no_life_double
+  def self.i_have_no_life
     puts 'yup this is ryan p'
+  end
+
+  def self.test
+    puts 'test'
   end
 
   def self.test_mark_function

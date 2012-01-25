@@ -10,7 +10,7 @@ class Zoltar
     puts 'me agian'
   end
   
-  def self.i_have_no_life
+  def self.i_have_no_life_double
     puts 'yup this is ryan p'
   end
 

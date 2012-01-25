@@ -28,6 +28,10 @@ class Zoltar
   def self.this_is_a_different_function
     puts 'this is a new function'
   end
+  
+  def self.random_test
+     puts 'this is a new function'
+   end
 
 end
 

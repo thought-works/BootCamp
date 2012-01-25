@@ -16,6 +16,8 @@ class Zoltar
 
   def self.test_mark_function
     puts 'test mark function'
+  def self.this_is_a_different_function
+    puts 'this is a new function'
   end
 
 end
